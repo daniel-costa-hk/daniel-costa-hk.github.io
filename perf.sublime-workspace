@@ -87,7 +87,10 @@
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 0.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -100,6 +103,8 @@
 	},
 	"file_history":
 	[
+		"/Users/mac4996/Dropbox/webdev/google/front-end/perf.sublime-workspace",
+		"/Users/mac4996/Dropbox/webdev/google/front-end/perf.sublime-project",
 		"/Users/mac/Dropbox/webdev/google/frontend-nanodegree-mobile-portfolio/optimizations.html",
 		"/Users/mac/Dropbox/webdev/google/frontend-nanodegree-mobile-portfolio/index.html",
 		"/Users/mac/Dropbox/webdev/google/frontend-nanodegree-mobile-portfolio/project-mobile.html",
@@ -386,10 +391,15 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"output.sftp":
 	{
 		"height": 0.0
 	},
+	"project": "perf.sublime-project",
 	"replace":
 	{
 		"height": 64.0
@@ -527,10 +537,24 @@
 		],
 		"width": 380.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 341.0,
-	"status_bar_visible": true
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }
